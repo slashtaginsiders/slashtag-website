@@ -21,7 +21,11 @@ body {
   background-repeat: repeat;
 }
 
-/* X-Small devices (portrait phones, less than 576px) */
+/* X-Small devices (portrait phones, less than 576px) */html,
+body{
+  height: 100%;
+}
+
 /* No media query for `xs` since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up) */
