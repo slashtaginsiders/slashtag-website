@@ -10,7 +10,8 @@
   opacity: 0.9;
   background: #9d9086;
   background-image: url(../img/placeholder-home-hotel-image.png);
-  background-size: 100vw;
+  /* background-size: 100vw; */
+  background-size: calc(max(100%, 1000px));
   background-repeat: repeat;
 }
 
