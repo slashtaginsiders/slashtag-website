@@ -1,0 +1,38 @@
+.bg_image_1 {
+  position: relative;
+}
+
+.bg_image_1::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.15;
+  background: #9d9086;
+  background-image: url(../img/hotel-wallpaper-derivatives/hotel-wallpaper-450_x_450.jpg);
+  background-size: 100vw;
+  background-repeat: repeat;
+}
+
+/* X-Small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+/* @media (min-width: 576px) { ... } */
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .bg_image_1::after {
+    background-image: url(../img/hotel-wallpaper-derivatives/hotel-wallpaper-900_x_900.jpg);
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) { ... } */
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .bg_image_1::after {
+    background-image: url(../img/hotel-wallpaper-derivatives/hotel-wallpaper-1800_x_1800.jpg);
+  }
+}
