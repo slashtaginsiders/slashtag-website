@@ -1,5 +1,6 @@
 .bg_image_1 {
   position: relative;
+  min-height: 50%;
 }
 
 .bg_image_1::after {
