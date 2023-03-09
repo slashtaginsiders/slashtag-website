@@ -3,10 +3,6 @@ body {
   height: 83%;
 }
 
-/* .bg_image_1 {
-  position: relative;
-} */
-
 .bg_image_1::after {
   background-image: url(../img/placeholder-home-hotel-image.png);
   background-size: calc(max(100%, 1000px));
