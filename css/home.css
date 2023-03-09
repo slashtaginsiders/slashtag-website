@@ -5,7 +5,6 @@ body {
 
 .bg_image_1 {
   position: relative;
-  min-height: 50%;
 }
 
 .bg_image_1::after {
@@ -13,18 +12,15 @@ body {
   position: absolute;
   inset: 0;
   z-index: -1;
-  opacity: 0.9;
+  opacity: 0.8;
   background: #9d9086;
   background-image: url(../img/placeholder-home-hotel-image.png);
-  /* background-size: 100vw; */
   background-size: calc(max(100%, 1000px));
   background-repeat: repeat;
+  background-position: center;
 }
 
-/* X-Small devices (portrait phones, less than 576px) */html,
-body{
-  height: 100%;
-}
+/* X-Small devices (portrait phones, less than 576px) */
 
 /* No media query for `xs` since this is the default in Bootstrap */
 
