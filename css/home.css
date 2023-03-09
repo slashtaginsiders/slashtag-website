@@ -5,8 +5,8 @@ body {
 
 .bg_image_1::after {
   background-image: url(../img/placeholder-home-hotel-image.png);
-  background-size: calc(max(100%, 1000px));
-  background-position: top;
+  background-size: calc(max(50%, 950px));
+  background-position: center 30%;
   opacity: 0.7;
 }
 
