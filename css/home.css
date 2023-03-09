@@ -12,11 +12,11 @@ body {
   background-image: url(../img/placeholder-home-hotel-image.png);
   background-size: calc(max(100%, 1000px));
   background-repeat: repeat;
-  background-position: center;
+  background-position: top;
   content: "";
   filter: brightness(0.1);
   inset: 0;
-  opacity: 0.8;
+  opacity: 0.7;
   position: absolute;
   z-index: -1;
 }
