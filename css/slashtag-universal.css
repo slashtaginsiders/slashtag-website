@@ -7,8 +7,8 @@
   position: absolute;
   inset: 0;
   z-index: -1;
-  opacity: 0.6;
-  filter: brightness(0.2);
+  opacity: 0.8;
+  filter: brightness(0.1);
   background: #9d9086;
   background-image: url(../img/hotel-wallpaper-derivatives/hotel-wallpaper-450_x_450.jpg);
   background-size: 100vw;
