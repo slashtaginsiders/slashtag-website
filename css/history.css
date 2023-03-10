@@ -1,4 +1,7 @@
+.accordion {
+  border: none;
+}
+
 .accordion-body {
-  background-color: #5f544b;
-  /* filter: brightness(0.3); */
+  background-color: #383333;
 }
