@@ -1,7 +1,7 @@
-/* html,
+html,
 body {
   height: 85%;
-} */
+}
 
 .bg_image_1::after {
   background-image: url(../img/placeholder-home-hotel-image.png);
