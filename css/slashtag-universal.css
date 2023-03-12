@@ -1,6 +1,6 @@
 :root {
   --dark-olive: #556b2f;
-  --burgundy: #550116;
+  --dark-burgundy: #550116;
 }
 
 html,
@@ -8,8 +8,8 @@ body {
   height: 100vh;
 }
 
-nav.navbar.navbar-dark.bg-dark {
-  background-color: var(--dark-olive) !important;
+nav.navbar.navbar-dark {
+  background-color: var(--dark-burgundy) !important;
 }
 
 .bg_image_1 {
