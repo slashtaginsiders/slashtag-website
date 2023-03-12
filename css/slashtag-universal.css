@@ -9,7 +9,7 @@ body {
 }
 
 nav.navbar.navbar-dark.bg-dark {
-  background-color: var(--dark-olive);
+  background-color: var(--dark-olive) !important;
 }
 
 .bg_image_1 {
