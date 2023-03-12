@@ -5,3 +5,7 @@
 .accordion-body {
   background-color: #383333;
 }
+
+.propitius-floor-plan img {
+  max-height: 80vh;
+}
