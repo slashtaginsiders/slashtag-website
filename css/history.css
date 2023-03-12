@@ -30,6 +30,11 @@ section.container.pt-2.pb-4.d-block.d-sm-none div.card.dire-town-card {
   background-image: url(../img/smaller-dire-town-photo-2.webp);
 }
 
+section.container.pt-2.pb-4.d-block.d-sm-none div.card.artur-wilson-card {
+  aspect-ratio: 3/4;
+  background-image: url(../img/smaller-dire-town-photo-2.webp);
+}
+
 /* This media query will apply to all devices with screens
    that have a width of 992 pixels or more*/
 
