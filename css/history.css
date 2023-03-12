@@ -14,6 +14,10 @@
   max-height: 80vh;
 }
 
+section.dm-sm-none .card.propitius-hotel-card {
+ background-image: url(../img/smaller-placeholder-home-hotel-image.webp
+}
+
 /* This media query will apply to all devices with screens
    that have a width of 992 pixels or more*/
 
