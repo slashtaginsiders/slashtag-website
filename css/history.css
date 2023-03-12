@@ -21,9 +21,9 @@ section.container.pt-2.pb-4.d-block.d-sm-none div.card.shadow-sm {
 }
 
 section.container.pt-2.pb-4.d-block.d-sm-none div.card.shadow-sm .image-text {
-  position: relative;
+  /* position: relative;
   vertical-align: middle;
-  z-index: 1;
+  z-index: 1; */
 }
 
 section.container.pt-2.pb-4.d-block.d-sm-none div.card.propitius-hotel-card {
