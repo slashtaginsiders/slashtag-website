@@ -1,3 +1,8 @@
+:root {
+  --dark-olive: #556b2f;
+  --burgundy: #800020;
+}
+
 html,
 body {
   height: 100vh;
