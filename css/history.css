@@ -7,7 +7,7 @@
 }
 
 .the-propitius img.hotel-img {
-  width: 30vw;
+  max-width: 30vw;
 }
 
 .propitius-floor-plan img {
