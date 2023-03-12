@@ -21,7 +21,7 @@ section.container.pt-2.pb-4.d-block.d-sm-none div.card.shadow-sm {
 }
 
 section.container.pt-2.pb-4.d-block.d-sm-none div.card.shadow-sm .image-text {
-  position: absolute;
+  position: relative;
   vertical-align: middle;
   z-index: 1;
 }
