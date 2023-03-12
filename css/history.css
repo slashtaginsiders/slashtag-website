@@ -13,3 +13,12 @@
 .propitius-floor-plan img {
   max-height: 80vh;
 }
+
+/* This media query will apply to all devices with screens
+   that have a width of 992 pixels or more*/
+
+@media (min-width: 1400px) {
+  .the-propitius img.hotel-img {
+    max-width: 25vw;
+  }
+}
